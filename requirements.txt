@@ -1,0 +1,11 @@
+numpy
+colorama
+scipy
+opencv-python==4.1.0.25
+scikit-image
+h5py
+numexpr
+tqdm
+tensorflow-gpu==2.4.0
+ffmpeg-python
+tf2onnx==1.9.3
