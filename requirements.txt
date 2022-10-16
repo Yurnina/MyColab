@@ -1,4 +1,3 @@
-numpy==1.19.3
 colorama
 scipy
 opencv-python==4.1.0.25
