@@ -1,6 +1,6 @@
 colorama
 scipy
-opencv-python==4.1.0.25
+opencv-python==4.1.2.30
 scikit-image
 h5py
 numexpr
