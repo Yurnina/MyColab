@@ -1,9 +1,9 @@
-colorama
+colorama==0.4.6
 scipy
-opencv-python==4.1.2.30
+opencv-python==4.7.0.72
 scikit-image
-h5py
+h5py==3.8.0
 numexpr
 tqdm
-ffmpeg-python
-tf2onnx==1.9.3
+ffmpeg-python==0.2.0
+tf2onnx==1.14.0
